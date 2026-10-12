@@ -7,6 +7,7 @@ I created a small Express server with routes for the home page, about page, and 
 ## Run
 
 npm install
+
 npm start
 
 ## Test
